@@ -22,6 +22,12 @@ INSTALLED_APPS += [
     'app_user',
     'rest_framework', 
 ]
+
+- modificar el archivo models del app_pelicula
+- registrar en admin el modelo app_pelicula
+
+
+
 ```
 - START THE MIGRATION WITH THE DATABASE:
 
